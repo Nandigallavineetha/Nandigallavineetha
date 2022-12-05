@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nandigallavineetha
-- 👀 I’m interested in ...data adminstrator
+- 👀 I’m interested in ...database adminstrator
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...software companies
 - 📫 How to reach me ...mail
